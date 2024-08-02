@@ -11,3 +11,4 @@ __pycache__
 test-metadata.csv
 metadata.csv
 train-metadata.csv
+.gitignore
