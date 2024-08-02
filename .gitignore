@@ -1,0 +1,13 @@
+train-image.hdf5
+test-metadata.csv
+test-image.hdf5
+sample_submission.csv
+train-image
+tb_logs
+isic-2024-challenge
+best_model
+.ipynb_checkpoints
+__pycache__
+test-metadata.csv
+metadata.csv
+train-metadata.csv
